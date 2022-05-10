@@ -1,0 +1,36 @@
+Using normal ffmpeg profile (360p@200K, 480p@600K, 720p@1000K)
+Network profile: [
+  { speed: 1200, duration: 10 },
+  { speed: 300, duration: 10 },
+  { speed: 800, duration: 10 }
+]
+Waiting for player to setup.
+Waiting for 10 seconds of uninterrupted max-quality playback before starting.
+Player is stable at the max quality, beginning network emulation
+Setting network speed to 1200kbps for 10 seconds
+Setting network speed to 300kbps for 10 seconds
+Setting network speed to 800kbps for 10 seconds
+Run complete
+{
+  switchHistory: [
+    { start: 401.866987, end: 413.831765, quality: [Object] },
+    { start: 413.831765, end: 414.473937, quality: [Object] },
+    { start: 414.473937, end: 414.959521, quality: [Object] },
+    { start: 414.959521, end: 431.797122, quality: [Object] }
+  ],
+  stallDuration: 1282.1000000052154,
+  averageLatency: 1.5958266666666665,
+  averageBufferLength: 0.7570466666666668
+}
+hey1000000
+hey200000
+hey600000
+hey200000
+{
+  stallDuration: 1282.1000000052154,
+  averageLatency: 1.5958266666666665,
+  averageBufferLength: 0.7570466666666668,
+  averageBitrate: 526295.0868748177,
+  numSwitches: 4
+}
+Test finished. Press cmd+c to exit.

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="dash.js/node_modules/grunt-jscs/node_modules/JSV/jsdoc-toolkit/java/src"/>
+	<classpathentry kind="src" path="dash.js/samples/chromecast/sender-android/android-support-v7-appcompat/gen"/>
+	<classpathentry kind="src" path="dash.js/samples/chromecast/sender-android/android-support-v7-mediarouter/gen"/>
+	<classpathentry kind="src" path="dash.js/samples/chromecast/sender-android/AndroidDashSender/gen"/>
+	<classpathentry kind="src" path="dash.js/samples/chromecast/sender-android/AndroidDashSender/src"/>
+	<classpathentry kind="lib" path="dash.js/node_modules/grunt-jscs/node_modules/JSV/jsdoc-toolkit/java/classes/js.jar"/>
+	<classpathentry kind="lib" path="dash.js/node_modules/grunt-jscs/node_modules/JSV/jsdoc-toolkit/jsdebug.jar"/>
+	<classpathentry kind="lib" path="dash.js/node_modules/grunt-jscs/node_modules/JSV/jsdoc-toolkit/jsrun.jar"/>
+	<classpathentry kind="lib" path="dash.js/samples/chromecast/sender-android/android-support-v7-appcompat/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="dash.js/samples/chromecast/sender-android/android-support-v7-appcompat/libs/android-support-v7-appcompat.jar"/>
+	<classpathentry kind="lib" path="dash.js/samples/chromecast/sender-android/android-support-v7-mediarouter/libs/android-support-v7-mediarouter.jar"/>
+	<classpathentry kind="lib" path="dash.js/samples/chromecast/sender-android/AndroidDashSender/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="dash.js/samples/chromecast/sender-android/AndroidDashSender/libs/GoogleCastSdkAndroid-1.0.0.jar"/>
+	<classpathentry kind="lib" path="dash.js/test/functional/selenium/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

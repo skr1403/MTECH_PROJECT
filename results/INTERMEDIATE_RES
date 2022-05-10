@@ -1,0 +1,44 @@
+Run complete PROFILE_INTRA_CASCADE
+{
+  switchHistory: [
+    { start: 346.892981, end: 360.234916, quality: [Object] },
+    { start: 360.234916, end: 360.737476, quality: [Object] },
+    { start: 360.737476, end: 363.740013, quality: [Object] },
+    { start: 363.740013, end: 364.746189, quality: [Object] },
+    { start: 364.746189, end: 365.246933, quality: [Object] },
+    { start: 365.246933, end: 368.253277, quality: [Object] },
+    { start: 368.253277, end: 369.709792, quality: [Object] },
+    { start: 369.709792, end: 370.210113, quality: [Object] },
+    { start: 370.210113, end: 373.715955, quality: [Object] },
+    { start: 373.715955, end: 374.716492, quality: [Object] },
+    { start: 374.716492, end: 375.216768, quality: [Object] },
+    { start: 375.216768, end: 378.472244, quality: [Object] },
+    { start: 378.472244, end: 378.65829, quality: [Object] },
+    { start: 378.65829, end: 379.409981, quality: [Object] },
+    { start: 379.409981, end: 380.160271, quality: [Object] },
+    { start: 380.160271, end: 428.397445, quality: [Object] },
+    { start: 428.397445, end: 428.697653, quality: [Object] },
+    { start: 428.697653, end: 481.80043, quality: [Object] }
+  ],
+  stallDuration: 10990.299999998882,
+  averageLatency: 1.8186097922848663,
+  averageBufferLength: 0.6699525222551925
+}
+hey1000000
+hey200000
+hey600000
+hey1000000
+hey200000
+hey600000
+hey1000000
+hey200000
+hey600000
+hey1000000
+hey200000
+hey600000
+hey1000000
+hey200000
+hey600000
+hey200000
+hey600000
+hey200000
