@@ -1,13 +1,3 @@
-If you have any questions, or would like help setting up the test env, please file an issue or reach out to 2020-lll-challenge@acmmmsys.org
-
-# Assets for Twitch's ACM MMSys 2020 Grand Challenge
-
-This repo contains assets for Twitch's ACM MMSys 2020 Grand Challenge, [Adaptation Algorithm for Near-Second Latency](https://2020.acmmmsys.org/lll_challenge.php). It contains everything you need to build and test low-latency ABR algorithms locally.
-
-# Submission and Evaluation
-See [this document](evaluation.md) for instructions on how to submit your work, and how it will be evaluated.
-
-
 # What's in the Box
 
 - A fork of [Dash.js v3.0.1](https://github.com/Dash-Industry-Forum/dash.js), modified to pre-request low-latency segments
